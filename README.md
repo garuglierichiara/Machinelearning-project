@@ -19,4 +19,4 @@ The project analyzes the performance of both models, with a specific focus on th
 ## Dataset & Model Weights
 Due to GitHub's file size limits, the trained model weights and the specific dataset used for this project are hosted externally.
 You can download them here:
-👉 **[Download Models and Dataset from Google Drive](https://drive.google.com/drive/folders/10qLK2236d8LLDMgShcG9WuSTgqjoPWdr?usp=share_link)**
+ **[Download Models and Dataset from Google Drive](https://drive.google.com/drive/folders/10qLK2236d8LLDMgShcG9WuSTgqjoPWdr?usp=share_link)**
