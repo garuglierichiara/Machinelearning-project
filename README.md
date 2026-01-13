@@ -12,8 +12,8 @@ I developed and compared two different Machine Learning models:
 The project analyzes the performance of both models, with a specific focus on their ability to detect abstract concepts within the stories.
 
 ## Tools Used
-* Python
-* PyTorch / TensorFlow (scegli quello che hai usato)
+* Language: Python
+* Libraries: PyTorch 
 * Pandas & NumPy
 
 ## Dataset & Model Weights
