@@ -31,3 +31,9 @@ The project is written in **Python** and relies on these main libraries:
 ## Dataset & Model Weights
 Due to GitHub's file size limits, the trained model weights (`.pth`) and the specific training/test splits are hosted externally.
 **[Download Models and Dataset from Google Drive](https://drive.google.com/drive/folders/10qLK2236d8LLDMgShcG9WuSTgqjoPWdr?usp=share_link)**
+
+
+### Authors
+- **Chiara Garuglieri**
+- Claudia Scarpa
+- Valentina Sanson
